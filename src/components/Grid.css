@@ -1,0 +1,11 @@
+.cell {
+    border-width: 1px;
+    border-color: green;
+    border-style: solid;
+    height: 100px;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+}
